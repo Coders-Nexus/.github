@@ -17,19 +17,9 @@ Coders Nexus is a conglomeration of clubs and experts dedicated to promoting cod
 - **Mentorship:** Guidance from industry experts and senior students.
 
 
-## Open Source Projects
-
-We encourage contributions to our open-source projects. Check out our repositories to find a project that interests you. To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
-
 ## Events and Activities
 
-Stay tuned for our upcoming events and activities. Follow us on social media and check our [Events Calendar](link-to-events-calendar) for more details.
+Stay tuned for our upcoming events and activities.
 
 ## Contact Us
 
