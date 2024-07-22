@@ -1,4 +1,4 @@
-<div align="center">
+
 # Coders Nexus - Shree Devi Institute of Technology
 
 
@@ -41,4 +41,4 @@ For any queries or suggestions, feel free to reach out to us:
 
 A big thank you to all our members, mentors, and supporters who make Coders Nexus a thriving community.
 
-</div>
+
